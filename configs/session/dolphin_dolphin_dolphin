@@ -1,0 +1,9 @@
+[1]
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x005file:///home/thinkbook/Downloads/dotfiles-master/rofi\x00\x00\x00\x00\x01\x00\x00\x00@file:///home/thinkbook/Downloads/dotfiles-master/rofi/resolution\x00\x00\x00\x10\x00\x00\x00@file:///home/thinkbook/Downloads/dotfiles-master/rofi/resolution\x00\x00\x00=file:///home/thinkbook/Downloads/dotfiles-master/rofi/wallust\x00\x00\x00Ffile:///home/thinkbook/Downloads/dotfiles-master/rofi/config-calc.rasi\x00\x00\x00Kfile:///home/thinkbook/Downloads/dotfiles-master/rofi/config-clipboard.rasi\x00\x00\x00Ifile:///home/thinkbook/Downloads/dotfiles-master/rofi/config-compact.rasi\x00\x00\x00Gfile:///home/thinkbook/Downloads/dotfiles-master/rofi/config-emoji.rasi\x00\x00\x00Qfile:///home/thinkbook/Downloads/dotfiles-master/rofi/config-rofi-Beats-menu.rasi\x00\x00\x00Lfile:///home/thinkbook/Downloads/dotfiles-master/rofi/config-rofi-Beats.rasi\x00\x00\x00Hfile:///home/thinkbook/Downloads/dotfiles-master/rofi/config-search.rasi\x00\x00\x00Rfile:///home/thinkbook/Downloads/dotfiles-master/rofi/config-wallpaper-effect.rasi\x00\x00\x00Kfile:///home/thinkbook/Downloads/dotfiles-master/rofi/config-wallpaper.rasi\x00\x00\x00Ofile:///home/thinkbook/Downloads/dotfiles-master/rofi/config-waybar-layout.rasi\x00\x00\x00Nfile:///home/thinkbook/Downloads/dotfiles-master/rofi/config-waybar-style.rasi\x00\x00\x00Kfile:///home/thinkbook/Downloads/dotfiles-master/rofi/config-zsh-theme.rasi\x00\x00\x00Afile:///home/thinkbook/Downloads/dotfiles-master/rofi/config.rasi\x00\x00\x00Hfile:///home/thinkbook/Downloads/dotfiles-master/rofi/master-config.rasi\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1

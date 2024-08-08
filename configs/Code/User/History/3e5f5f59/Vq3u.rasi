@@ -1,0 +1,20 @@
+/* ---- 💫 https://github.com/JaKooLit 💫 ---- */
+/* Main Config - emoji */
+
+@import "~/.config/rofi/config.rasi" 
+
+window {
+    font: "DejaVu Sans Mono 8";
+}
+
+/* ---- Entry ---- */
+entry {
+  width: 100%;
+  placeholder: "📶 WiFi Connect";
+}
+
+/* ---- Listview ---- */
+listview {
+  columns: 1;
+  lines: 8;
+}

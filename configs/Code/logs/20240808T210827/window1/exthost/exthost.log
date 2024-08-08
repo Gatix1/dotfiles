@@ -1,0 +1,12 @@
+2024-08-08 21:08:28.479 [info] Extension host with pid 3092 started
+2024-08-08 21:08:28.479 [info] Skipping acquiring lock for /home/thinkbook/.config/Code/User/workspaceStorage/b02241b4b1b88785e0b051eb7f5f9b3d.
+2024-08-08 21:08:28.622 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-08 21:08:28.628 [info] ExtensionService#_doActivateExtension shakram02.bash-beautify, startup: false, activationEvent: 'onLanguage:shellscript'
+2024-08-08 21:08:28.729 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-08 21:08:28.731 [info] ExtensionService#_doActivateExtension AntiAntiSepticeye.vscode-color-picker, startup: true, activationEvent: '*'
+2024-08-08 21:08:28.775 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-08 21:08:28.791 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-08 21:08:28.823 [info] Eager extensions activated
+2024-08-08 21:08:28.833 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-08 21:08:28.834 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-08 21:08:28.838 [info] ExtensionService#_doActivateExtension MarkosTh09.color-picker, startup: false, activationEvent: 'onStartupFinished'

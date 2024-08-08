@@ -1,0 +1,88 @@
+/*
+          _                         _    
+__      _| | ___   __ _  ___  _   _| |_  
+\ \ /\ / / |/ _ \ / _` |/ _ \| | | | __| 
+ \ V  V /| | (_) | (_| | (_) | |_| | |_  
+  \_/\_/ |_|\___/ \__, |\___/ \__,_|\__| 
+                  |___/                  
+ 
+
+----------------------------------------------------- 
+*/
+/* -----------------------------------------------------
+ * General 
+ * ----------------------------------------------------- */
+
+* {
+    font-family: "sf pro regular";
+	background-image: none;
+	transition: 20ms;
+	box-shadow: none;
+}
+
+window {
+    background-color: rgba(0, 0, 0, 0.5);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
+
+button {
+	color: #FFFFFF;
+    font-size:20px;
+	background-color: rgba(36, 36, 36, 0.65);
+    background-repeat: no-repeat;
+	background-position: center;
+	background-size: 25%;
+	border-width: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button:focus,
+button:active,
+button:hover {
+	background-color: rgba(126, 81, 145, 0.8);
+	cursor: pointer;
+}
+
+/* 
+----------------------------------------------------- 
+Buttons
+----------------------------------------------------- 
+*/
+
+#lock {
+	margin: 10px;
+	border-radius: 20px;
+	background-image: image(url("icons/hibernate.png"));
+}
+
+#logout {
+	margin: 10px;
+	border-radius: 20px;
+	background-image: image(url("icons/hibernate.png"));
+}
+
+#suspend {
+	margin: 10px;
+	border-radius: 20px;
+	background-image: image(url("icons/hibernate.png"));
+}
+
+#hibernate {
+	margin: 10px;
+	border-radius: 20px;
+	background-image: image(url("icons/hibernate.png"));
+}
+
+#shutdown {
+	margin: 10px;
+	border-radius: 20px;
+	background-image: image(url("icons/hibernate.png"));
+}
+
+#reboot {
+	margin: 10px;
+	border-radius: 20px;
+	background-image: image(url("icons/hibernate.png"));
+}

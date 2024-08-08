@@ -1,0 +1,13 @@
+/* ---- 💫 https://github.com/JaKooLit 💫 ---- */
+/* Main Config 1080p */
+
+@import "~/.config/rofi/master-config.rasi" 
+
+/* ---- Configuration ---- */
+configuration {
+	font: "DejaVu Sans Mono 8";
+}
+
+element-text {
+    font:	"DejaVu Sans Mono 8";
+}
