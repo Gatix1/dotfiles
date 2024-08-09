@@ -1,0 +1,25 @@
+2024-08-09 20:58:01.929 [info] Extension host with pid 11649 started
+2024-08-09 20:58:01.929 [info] Skipping acquiring lock for /home/thinkbook/.config/Code/User/workspaceStorage/e8397311ad870c81c43fbf11c4b4293b.
+2024-08-09 20:58:02.013 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-08-09 20:58:02.054 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-09 20:58:02.066 [info] Eager extensions activated
+2024-08-09 20:58:02.075 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-09 20:58:02.076 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-09 20:58:04.607 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-08-09 20:58:04.644 [info] ExtensionService#_doActivateExtension AntiAntiSepticeye.vscode-color-picker, startup: false, activationEvent: '*'
+2024-08-09 20:58:04.646 [info] ExtensionService#_doActivateExtension MarkosTh09.color-picker, startup: false, activationEvent: 'onStartupFinished'
+2024-08-09 20:58:09.200 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-09 20:58:10.635 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-08-09 21:09:54.536 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-09 21:09:54.545 [info] Extension host with pid 11649 exiting with code 0
+2024-08-09 21:09:55.425 [info] Extension host with pid 15956 started
+2024-08-09 21:09:55.425 [info] Skipping acquiring lock for /home/thinkbook/.config/Code/User/workspaceStorage/aec70749e4a75c3d9815a77f8e9192b8.
+2024-08-09 21:09:55.479 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-09 21:09:55.481 [info] ExtensionService#_doActivateExtension AntiAntiSepticeye.vscode-color-picker, startup: true, activationEvent: '*'
+2024-08-09 21:09:55.486 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-09 21:09:55.501 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-09 21:09:55.530 [info] Eager extensions activated
+2024-08-09 21:09:55.555 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-09 21:09:55.556 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-09 21:09:55.559 [info] ExtensionService#_doActivateExtension MarkosTh09.color-picker, startup: false, activationEvent: 'onStartupFinished'
+2024-08-09 21:09:57.173 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'

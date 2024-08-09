@@ -4,11 +4,13 @@
         "workspaces": {
             "file:///home/thinkbook/.config/neofetch": "__default__profile__",
             "file:///home/thinkbook/.local/share/icons": "__default__profile__",
-            "file:///home/thinkbook/.config": "__default__profile__"
+            "file:///home/thinkbook/Downloads/Cuphead%20by%20Igruha": "__default__profile__",
+            "file:///home/thinkbook/.config": "__default__profile__",
+            "file:///home/thinkbook/.spicetify/Themes/SpicetifyDefault": "__default__profile__",
+            "file:///home/thinkbook/.config/spicetify/Themes/marketplace": "__default__profile__"
         },
         "emptyWindows": {
-            "1723142667652": "__default__profile__",
-            "1723142683098": "__default__profile__"
+            "1723224769113": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -20,9 +22,19 @@
         "folders": [
             {
                 "folderUri": "file:///home/thinkbook/.config"
+            },
+            {
+                "folderUri": "file:///home/thinkbook/.spicetify/Themes/SpicetifyDefault"
+            },
+            {
+                "folderUri": "file:///home/thinkbook/.config/spicetify/Themes/marketplace"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1723224769113"
+            }
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -1698,20 +1710,27 @@
             "statusBarBackground": "#242424",
             "statusBarNoFolderBackground": "#242424",
             "windowBorder": "#454545"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "statusBarHeight": 22,
+            "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/thinkbook/.config",
-            "backupPath": "/home/thinkbook/.config/Code/Backups/deb69cd3b72c8e0c13e062ec66398224",
+            "folder": "file:///home/thinkbook/.config/spicetify/Themes/marketplace",
+            "backupPath": "/home/thinkbook/.config/Code/Backups/c54616adb7eb03f10baa37b04d7510ba",
             "uiState": {
-                "mode": 3,
-                "display": 46,
-                "width": 2560,
-                "height": 1600,
+                "mode": 0,
                 "x": 0,
                 "y": 0,
-                "zoomLevel": 1
+                "width": 614,
+                "height": 391
             }
         },
         "openedWindows": []

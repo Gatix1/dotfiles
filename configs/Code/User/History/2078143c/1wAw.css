@@ -1,0 +1,24 @@
+@-moz-document domain("spotify.com") {
+    /* background color for main window */
+    .Root > :nth-child(2) {
+        background-color: #242424;
+    }
+
+    /* background color for main window behind sidebar */
+    .Root > :nth-child(2) > :nth-child(1) {
+        background-color: #242424;
+    }
+
+    /* theme color */
+    .encore-dark-theme {
+        --background-base: #303030;
+        --background-highlight: #2a2a2a;
+        --background-press: #242424;
+        --background-elevated-press: #303030;
+    }
+
+    /* font family */
+    * {
+        font-family: 'Cantarell', sans-serif !important;
+    }
+}

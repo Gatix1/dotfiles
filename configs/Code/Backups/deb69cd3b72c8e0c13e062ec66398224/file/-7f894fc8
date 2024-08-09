@@ -1,0 +1,14 @@
+file:///home/thinkbook/.config/hypr/hyprpaper.conf {"mtime":1723147666079,"ctime":1723074052911,"size":405,"etag":"3cpq8fh76d2","orphaned":false,"typeId":""}
+preload = ~/Pictures/Wallpapers/main.webp
+#if more than one preload is desired then continue to preload other backgrounds
+# .. more preloads
+
+#set the default wallpaper(s) seen on initial workspace(s) --depending on the number of monitors used
+wallpaper = flatpak install flathub com.visualstudio.code, ~/Pictures/Wallpapers/main.webp
+# .. more monitors
+
+#enable splash text rendering over the wallpaper
+splash = false
+
+#fully disable ipc
+# ipc = off

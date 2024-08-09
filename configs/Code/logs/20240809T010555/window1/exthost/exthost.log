@@ -1,0 +1,17 @@
+2024-08-09 01:05:56.254 [info] Extension host with pid 87638 started
+2024-08-09 01:05:56.254 [info] Skipping acquiring lock for /home/thinkbook/.config/Code/User/workspaceStorage/b02241b4b1b88785e0b051eb7f5f9b3d.
+2024-08-09 01:05:56.360 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-09 01:05:56.365 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-09 01:05:56.369 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-09 01:05:56.386 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-09 01:05:56.406 [info] ExtensionService#_doActivateExtension shakram02.bash-beautify, startup: false, activationEvent: 'onLanguage:shellscript'
+2024-08-09 01:05:56.614 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-09 01:05:56.616 [info] ExtensionService#_doActivateExtension AntiAntiSepticeye.vscode-color-picker, startup: true, activationEvent: '*'
+2024-08-09 01:05:56.621 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-09 01:05:56.639 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-09 01:05:56.670 [info] Eager extensions activated
+2024-08-09 01:05:56.687 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-09 01:05:56.687 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-09 01:05:56.691 [info] ExtensionService#_doActivateExtension MarkosTh09.color-picker, startup: false, activationEvent: 'onStartupFinished'
+2024-08-09 01:06:08.160 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-09 01:06:08.186 [info] Extension host with pid 87638 exiting with code 0
