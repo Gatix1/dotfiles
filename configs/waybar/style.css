@@ -5,8 +5,8 @@
 /* --- 👍 designed by https://github.com/Krautt  👍 --- */
 
 *{
-	font-family: "JetBrains Mono Nerd Font";
-	font-weight: bold;
+	font-family: "SF Mono";
+	font-weight: normal;
 	min-height: 0;	
 	/* set font-size to 100% if font scaling is set to 1.00 using nwg-look */
 	font-size: 99%;
@@ -43,7 +43,7 @@ window#waybar.empty #window {
 }
    
 #workspaces button.active {
-	color: #7e5191;
+	color: #907aa9;
    	border-radius: 15px 15px 15px 15px;
    	padding-left: 8px;
    	padding-right: 8px;

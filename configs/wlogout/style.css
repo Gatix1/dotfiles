@@ -37,7 +37,7 @@ button:focus,
 button:active,
 button:hover {
 	transition: 20ms;
-	background-color: rgba(126, 81, 145, 0.9);
+	background-color: rgba(62, 143, 176, 0.9);
 }
 
 /* 

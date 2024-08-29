@@ -1,6 +1,0 @@
-2024-08-08 20:34:18.467 [info] update#setState idle
-2024-08-08 20:34:48.468 [info] update#setState checking for updates
-2024-08-08 20:34:48.472 [info] update#setState available for download
-2024-08-08 20:54:25.801 [info] Extension host with pid 3002 exited with code: 15, signal: unknown.
-2024-08-08 20:54:25.802 [error] [UtilityProcess id: 1, type: extensionHost, pid: 3002]: crashed with code 15 and reason 'killed'
-2024-08-08 20:54:25.808 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

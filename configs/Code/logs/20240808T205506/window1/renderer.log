@@ -1,7 +1,0 @@
-2024-08-08 20:55:06.519 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/usr/share/sddm/themes/sugar-candy/metadata.desktop","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-08-08 20:55:06.805 [info] Started local extension host with pid 10271.
-2024-08-08 20:55:10.104 [info] [perf] Render performance baseline is 16ms
-2024-08-08 20:55:58.184 [error] [text file model] handleSaveError(8) - exit - resulted in a save error: Error: Unable to write file '/usr/share/sddm/themes/sugar-candy/theme.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/sddm/themes/sugar-candy/theme.conf') file:///usr/share/sddm/themes/sugar-candy/theme.conf
-2024-08-08 20:56:45.451 [error] [text file model] handleSaveError(72) - exit - resulted in a save error: Error: Unable to write file '/usr/share/sddm/themes/sugar-candy/theme.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/sddm/themes/sugar-candy/theme.conf') file:///usr/share/sddm/themes/sugar-candy/theme.conf
-2024-08-08 20:56:47.307 [error] [text file model] handleSaveError(72) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///usr/share/sddm/themes/sugar-candy/theme.conf
-2024-08-08 20:56:51.310 [error] [text file model] handleSaveError(72) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///usr/share/sddm/themes/sugar-candy/theme.conf

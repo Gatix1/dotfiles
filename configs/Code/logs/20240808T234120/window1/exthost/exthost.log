@@ -1,9 +1,0 @@
-2024-08-08 23:41:21.903 [info] Extension host with pid 10380 started
-2024-08-08 23:41:21.903 [info] Skipping acquiring lock for /home/thinkbook/.config/Code/User/workspaceStorage/b02241b4b1b88785e0b051eb7f5f9b3d.
-2024-08-08 23:41:22.038 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2024-08-08 23:41:22.042 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
-2024-08-08 23:41:22.044 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
-2024-08-08 23:41:22.058 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
-2024-08-08 23:41:22.076 [info] ExtensionService#_doActivateExtension shakram02.bash-beautify, startup: false, activationEvent: 'onLanguage:shellscript'
-2024-08-08 23:41:22.139 [info] Extension host terminating: renderer closed the MessagePort
-2024-08-08 23:41:22.142 [info] Extension host with pid 10380 exiting with code 0

@@ -23,7 +23,6 @@
 		],
 	
 	"modules-center": [
-		"custom/cava_mviz",
 		"clock",
 		"custom/separator#line",
 		"hyprland/workspaces#roman",	

@@ -1,3 +1,0 @@
-2024-08-08 20:34:20.486 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/thinkbook/Hyprland-Dots/config/hypr/hypridle.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-08-08 20:34:20.791 [info] Started local extension host with pid 3002.
-2024-08-08 20:34:23.520 [info] [perf] Render performance baseline is 28ms

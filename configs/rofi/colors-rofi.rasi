@@ -17,11 +17,11 @@ selected-active-background: #030203;
 selected-active-foreground: #FBF8ED;
 selected-normal-background: #F1ECDD;
 selected-normal-foreground: #FBF8ED;
-selected-urgent-background: #7e5191;
+selected-urgent-background: #6e6a86;
 selected-urgent-foreground: #FBF8ED;
 
-background-color: #000000;
-background: rgba(0,0,0,0.6);
+background-color: #2a273f;
+background: rgba(35,33,54,0.8);
 foreground: #F1ECDD;
 border-color: #030203;
 }

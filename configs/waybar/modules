@@ -309,7 +309,7 @@
 },
 "bluetooth": {
 	"format": "",
-	"format-disabled": "󰂳",
+	"format-disabled": "󰂲",
 	"format-connected": "󰂱 {num_connections}",
 	"tooltip-format": " {device_alias}",
 	"tooltip-format-connected": "{device_enumerate}",
@@ -320,8 +320,8 @@
 "clock": {
 	"interval": 1,
     //"format": " {:%I:%M %p}", // AM PM format
-    "format": " {:%H:%M:%S}", // 24H
-	"format-alt": " {:%H:%M   %Y, %d %B, %A}",
+    "format": "󱑒 {:%H:%M:%S}", // 24H
+	"format-alt": "󱑒 {:%H:%M   %Y, %d %B, %A}",
 	"tooltip-format": "<tt><small>{calendar}</small></tt>",
 	"calendar": {
 		"mode": "year",
@@ -423,7 +423,7 @@
 	"capslock": true,
 	"format": {
 		"numlock": "N {icon}",
-		"capslock": "󰪛 {icon}",
+		"capslock": " {icon}",
 	},
 	"format-icons": {
 		"locked": "",
@@ -628,7 +628,7 @@
 "custom/keyboard": {
 	"exec": "cat ~/.cache/kb_layout",
 	"interval": 1,
-	"format": " {}",
+	"format": " {}",
 	"on-click": "~/.config/hypr/scripts/SwitchKeyboardLayout.sh",
 },
 "custom/light_dark": {

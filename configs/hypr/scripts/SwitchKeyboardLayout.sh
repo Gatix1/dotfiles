@@ -40,6 +40,7 @@ new_layout="${layout_mapping[next_index]}"
 # Update the keyboard layout
 hyprctl switchxkblayout at-translated-set-2-keyboard next
 echo "$new_layout" > "$layout_f"
+echo "Switched"
 
 # Created by T-Crypt
 
@@ -51,7 +52,6 @@ change_layout() {
     local got_error=false
 
     while read -r name; do
-        hyprctl switchxkblayout "$name" next
         if [[ $? -eq 0 ]]; then
             echo "Switched the layout for $name."
         else
