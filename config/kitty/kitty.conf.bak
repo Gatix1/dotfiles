@@ -1,0 +1,8 @@
+include rose-pine.conf
+# Font
+font_family SF Pro
+bold_font auto
+font_size 20
+shell_integration no-cursor
+background #191724
+
